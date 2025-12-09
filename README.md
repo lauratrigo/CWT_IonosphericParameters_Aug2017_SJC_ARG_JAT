@@ -137,17 +137,17 @@ Esses dados foram previamente:
 
 <div align="center">
   <h4><strong>Figura 1: foF2 - SJC</strong></h4>
-  <img src="images/sjc_fof2.png" alt="CWT foF2 SJC" style="width:80%; max-width:900px;">
+  <img src="images/SJC_foF2.png" alt="CWT foF2 SJC" style="width:80%; max-width:900px;">
 </div>
 
 <div align="center">
   <h4><strong>Figura 2: h'F - SJC</strong></h4>
-  <img src="images/sjc_hF.png" alt="CWT hF SJC" style="width:80%; max-width:900px;">
+  <img src="images/SJC_hF.png" alt="CWT hF SJC" style="width:80%; max-width:900px;">
 </div>
 
 <div align="center">
   <h4><strong>Figura 3: hmF2 - SJC</strong></h4>
-  <img src="images/sjc_hmF2.png" alt="CWT hmF2 SJC" style="width:80%; max-width:900px;">
+  <img src="images/SJC_hmF2.png" alt="CWT hmF2 SJC" style="width:80%; max-width:900px;">
 </div>
 
 ---
@@ -156,17 +156,17 @@ Esses dados foram previamente:
 
 <div align="center">
   <h4><strong>Figura 4: foF2 - Araguatins</strong></h4>
-  <img src="images/arg_fof2.png" alt="CWT foF2 Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/ARG_foF2.png" alt="CWT foF2 Araguatins" style="width:80%; max-width:900px;">
 </div>
 
 <div align="center">
   <h4><strong>Figura 5: h'F - Araguatins</strong></h4>
-  <img src="images/arg_hF.png" alt="CWT hF Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/ARG_hF.png" alt="CWT hF Araguatins" style="width:80%; max-width:900px;">
 </div>
 
 <div align="center">
   <h4><strong>Figura 6: hmF2 - Araguatins</strong></h4>
-  <img src="images/arg_hmF2.png" alt="CWT hmF2 Araguatins" style="width:80%; max-width:900px;">
+  <img src="images/ARG_hmF2.png" alt="CWT hmF2 Araguatins" style="width:80%; max-width:900px;">
 </div>
 
 ---
@@ -175,17 +175,17 @@ Esses dados foram previamente:
 
 <div align="center">
   <h4><strong>Figura 7: foF2 - Jataí</strong></h4>
-  <img src="images/jat_fof2.png" alt="CWT foF2 Jataí" style="width:80%; max-width:900px;">
+  <img src="images/JAT_foF2.png" alt="CWT foF2 Jataí" style="width:80%; max-width:900px;">
 </div>
 
 <div align="center">
   <h4><strong>Figura 8: h'F - Jataí</strong></h4>
-  <img src="images/jat_hF.png" alt="CWT hF Jataí" style="width:80%; max-width:900px;">
+  <img src="images/JAT_hF.png" alt="CWT hF Jataí" style="width:80%; max-width:900px;">
 </div>
 
 <div align="center">
   <h4><strong>Figura 9: hmF2 - Jataí</strong></h4>
-  <img src="images/jat_hmF2.png" alt="CWT hmF2 Jataí" style="width:80%; max-width:900px;">
+  <img src="images/JAT_hmF2.png" alt="CWT hmF2 Jataí" style="width:80%; max-width:900px;">
 </div>
 
 ---
